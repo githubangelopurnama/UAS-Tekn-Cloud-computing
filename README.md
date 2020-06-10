@@ -1,1 +1,1 @@
-# UTS-Tekn-Cloud-computing
+# tekn-cloud-computing
